@@ -1,0 +1,13 @@
+
+body
+{
+    margin: 0 auto;
+}
+
+.header
+{
+    padding: 12px;
+    background: #469ad6;
+    color: black;
+    font-weight: 700;
+}
